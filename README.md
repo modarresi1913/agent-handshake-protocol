@@ -19,6 +19,12 @@
 
 </div>
 
+<div align="center">
+
+`ai-agents` · `agent-protocol` · `agent-identity` · `trust-layer` · `agent-to-agent` · `ed25519` · `self-sovereign-identity` · `did` · `multi-agent-systems` · `agent-economy` · `zero-trust` · `decentralized-identity` · `cryptographic-handshake` · `ai-infrastructure` · `agent-communication`
+
+</div>
+
 ---
 
 ## ⚠️ The Problem
@@ -224,6 +230,18 @@ Ed25519 signatures give us **cryptographic proof of identity** without any block
 Blockchain becomes relevant at **v1.0** when we reach the Settlement layer. Until then, simplicity is the moat.
 
 > _"The best protocol is the one that's so simple, everyone adopts it before anyone notices."_
+
+---
+
+## 🏷️ Topics
+
+```
+ai-agents, agent-protocol, agent-identity, trust-layer, agent-to-agent,
+ed25519, self-sovereign-identity, did, decentralized-identity,
+multi-agent-systems, agent-economy, zero-trust, cryptographic-handshake,
+ai-infrastructure, agent-communication, agent-security, passport,
+handshake-protocol, agent-interop, identity-verification
+```
 
 ---
 
